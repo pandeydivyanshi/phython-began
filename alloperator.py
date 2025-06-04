@@ -1,4 +1,4 @@
-#arthimatic operators
+#arthimatic operatorsAdd commentMore actions
 a=5
 b=8
 print(a+b)  #addition
@@ -43,4 +43,4 @@ a = 5
 b = 15
 print(not(a>b))                                                                  #not operator
 print(a==b and  b>10)                                                                # and
-print(a==b or b>10)                                                                #or
+print(a==b or b>10)  
