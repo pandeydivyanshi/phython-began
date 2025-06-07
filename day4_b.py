@@ -12,3 +12,31 @@ while(i<=len(num)):
 
 
 print("end of")
+
+##continue##
+
+
+a = 0
+while a <= 5:
+    if a == 3:
+        a += 1
+        continue
+    print(a)
+    a += 1
+
+
+a = 0
+while a <= 10:
+    if a % 2 == 0:
+        a += 1
+        continue
+    print(a)
+    a += 1
+
+a = 0
+while a <= 10:
+    if a % 2 != 0:
+        a += 1
+        continue
+    print(a)
+    a += 1
