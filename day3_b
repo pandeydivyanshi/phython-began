@@ -1,5 +1,5 @@
 ##tuple##
-tup={1,2,"sita","ram",}
+tup=(1,2,"sita","ram",)
 print(tup)
 print(type(tup))
 print(len(tup))                    #length of tuple
