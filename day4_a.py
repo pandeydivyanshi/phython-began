@@ -44,9 +44,12 @@ while(idx<len(n)):
 n=(88,4,9,16,25,36,49,64,81,100,7,33,7,26,233,5)
 x=5
 i=0
-while(i<=15):
-    if(n[i]==x):
+while(i<=len(n)):
+    if(n[i] == x):
         print("found x at",i)
-        i+=1
+    else:
+        print("finding")
+    i+=1
+
 
 
