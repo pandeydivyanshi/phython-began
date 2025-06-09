@@ -22,4 +22,4 @@ def fact(b):
     else:
        return fact(b-1) * b
    
-fact(5)
+print(fact(5))
