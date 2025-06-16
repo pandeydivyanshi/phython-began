@@ -9,4 +9,5 @@ import numpy as np
 x=np.array([233333,2321,348765,234567],ndmin=5)
 print(x)
 print(x.shape)
+##output (1,1,1,1,4)   fith dimen has 1 element ,fourth has 1 element and so on and last one D has 4elements
 
