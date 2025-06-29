@@ -10,6 +10,7 @@ Learned how to:
 Use .split() with input()
 Convert between data types
 Use comments for documentation
+
 ✅ Day 2: Data Structures – Lists, Tuples, Sets, Dictionaries
 Practiced:
 List operations (append, pop, sort, slicing)
@@ -17,12 +18,14 @@ Tuple immutability
 Set properties (no duplicates, basic set operations)
 Dictionary creation, key-value pairs, get(), update(), keys(), values()
 Learned differences between these structures and where to use them
+
 ✅ Day 3: Conditional Statements
 Practiced:
 if, elif, else statements
 Nested conditions
 Logical operators: and, or, not
 Built small programs using conditional logic (e.g., grading system, eligibility check)
+
 ✅ Day 4: Loops – for and while
 Practiced:
 for loop with range()
@@ -32,7 +35,6 @@ Control statements: break, continue, pass
 Wrote mini-examples like printing patterns, list search, sum calculator
 ✅ Day 5: Functions
 Practiced:
-
 Creating and calling functions using def
 Using parameters and return values
 Wrote modular functions for repeated tasks
@@ -42,6 +44,7 @@ Practiced:
 math module: sqrt, floor, ceil, pow, factorial, pi
 statistics module: mean, median, mode, variance, stdev, pvariance, pstdev
 Used both modules in practice scripts to perform calculations and summaries
+
 ✅ Day 7: Mini Project1 – Descriptive Statistics Tool
 This project analyzes a list of numbers entered by the user and outputs key descriptive statistics using only built-in modules (statistics, math).
 
@@ -55,7 +58,8 @@ Outlier detection using 1.5×IQR rule
 input(), lists, loops, conditionals, and custom functions
 Built-in modules: math, statistics
 📂 File:
-Week1_Python/mini_proj1.py ---- in python Week1_Python/mini_proj1.ipynb ---- in jupyter notebook
+in "Python_began" i only use python language for every programming
+in "trialprojects" i use jupiter notebook for write the program on
 
 SAMPLE OUTPUT
 Enter your data with space between each data points= 2 4 2 79 173 182 2 3 4 44 5 3 22 Entered data is= [2.0, 4.0, 2.0, 79.0, 173.0, 182.0, 2.0, 3.0, 4.0, 44.0, 5.0, 3.0, 22.0] -----For The Given Data The Following Statistics Are Calculated And Are Listed Below----
