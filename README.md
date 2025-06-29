@@ -57,6 +57,7 @@ Outlier detection using 1.5×IQR rule
 📦 Python Concepts Used:
 input(), lists, loops, conditionals, and custom functions
 Built-in modules: math, statistics
+
 📂 File:
 in "Python_began" i only use python language for every programming
 in "trialprojects" i use jupiter notebook for write the program on
@@ -98,8 +99,9 @@ Height classification:
 📦 Python Concepts Used:
 input(), lists, loops, conditionals, custom functions
 Built-in modules: math, statistics
+
 📂 File:
-Week1_Python/mini_proj2.ipynb
+in both repo python_began and trialprojects
 
 🧪 Sample Output:
 WELCOME TO THE HEIGHT ANALYSIS TOOL The Entered Dataset Is : [123.98, 145.78, 144.89, 164.89, 175.8, 179.0] ---------HEIGHTS ANALYSIS---------
